@@ -4,6 +4,7 @@ Receiver/MDK-ARM/*.uvoptx
 Receiver/MDK-ARM/*.User
 Receiver/MDK-ARM/*.scvd
 Receiver/MDK-ARM/*.lst
+Receiver/MDK-ARM/RX_stm32f103c8/
 
 #Transmitter
 Transmitter/MDK-ARM/DebugConfig
@@ -11,3 +12,4 @@ Transmitter/MDK-ARM/*.uvoptx
 Transmitter/MDK-ARM/*.User
 Transmitter/MDK-ARM/*.scvd
 Transmitter/MDK-ARM/*.lst
+Transmitter/MDK-ARM/TX_stm32f030f4/

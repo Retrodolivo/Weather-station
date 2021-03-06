@@ -32,7 +32,8 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "MY_NRF24.h"
+#include "nrf24.h"
+#include "bmp180.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
@@ -64,6 +65,10 @@ void Error_Handler(void);
 #define NRF24_CE_GPIO_Port GPIOA
 #define NRF24_IRQ_Pin GPIO_PIN_4
 #define NRF24_IRQ_GPIO_Port GPIOA
+#define BMP180_SCL_Pin GPIO_PIN_9
+#define BMP180_SCL_GPIO_Port GPIOA
+#define BMP180_SDA_Pin GPIO_PIN_10
+#define BMP180_SDA_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */

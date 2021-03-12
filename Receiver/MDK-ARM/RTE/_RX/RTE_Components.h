@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'RX_stm32f103c8' 
- * Target:  'RX_stm32f103c8' 
+ * Project: 'RX' 
+ * Target:  'RX' 
  */
 
 #ifndef RTE_COMPONENTS_H
